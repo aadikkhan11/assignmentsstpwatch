@@ -1,0 +1,13 @@
+body{
+    background-color: grey;
+    text-align: center;
+}
+
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    display: inline-block;
+   background-color: lightcyan;
+    width: 150px;
+}
